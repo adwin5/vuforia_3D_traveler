@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="monopoly-fazzino-edition-center" size="40.000000 27.799999" />
+    <ImageTarget name="Marker09" size="20.000000 21.091658" />
+    <ImageTarget name="Marker08" size="20.000000 20.137659" />
+    <ImageTarget name="Marker07" size="20.000000 21.467505" />
+    <ImageTarget name="Marker06" size="20.000000 24.380953" />
+    <ImageTarget name="Marker05" size="20.000000 25.924051" />
+    <ImageTarget name="Marker04" size="20.000000 25.190653" />
+    <ImageTarget name="Marker03" size="20.000000 20.078432" />
+    <ImageTarget name="Marker02" size="20.000000 18.574219" />
+  </Tracking>
+</QCARConfig>

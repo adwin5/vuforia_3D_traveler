@@ -1,0 +1,2359 @@
+fileFormatVersion: 2
+guid: 07573c6f25a42460bbf3e1124ec235fb
+timeCreated: 1433944191
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Camera
+    100002: CurveCircle
+    100004: CurveCircle.001
+    100006: Lamp
+    100008: Lamp.001
+    100010: //RootNode
+    100012: Plane
+    100014: SurfSphere
+    100016: SurfSphere.001
+    100018: SurfSphere.002
+    100020: SurfTube
+    100022: SurfTube.001
+    400000: Camera
+    400002: CurveCircle
+    400004: CurveCircle.001
+    400006: Lamp
+    400008: Lamp.001
+    400010: //RootNode
+    400012: Plane
+    400014: SurfSphere
+    400016: SurfSphere.001
+    400018: SurfSphere.002
+    400020: SurfTube
+    400022: SurfTube.001
+    2300000: CurveCircle
+    2300002: CurveCircle.001
+    2300004: Plane
+    2300006: SurfSphere
+    2300008: SurfSphere.001
+    2300010: SurfSphere.002
+    2300012: SurfTube
+    2300014: SurfTube.001
+    3300000: CurveCircle
+    3300002: CurveCircle.001
+    3300004: Plane
+    3300006: SurfSphere
+    3300008: SurfSphere.001
+    3300010: SurfSphere.002
+    3300012: SurfTube
+    3300014: SurfTube.001
+    4300000: Plane
+    4300002: CurveCircle
+    4300004: SurfSphere
+    4300006: SurfTube
+    4300008: SurfSphere.001
+    4300010: SurfTube.001
+    4300012: SurfSphere.002
+    4300014: CurveCircle.001
+    7400000: Lamp.001|ConvData_Action
+    7400002: Lamp.001|ConvData_Action.001
+    7400004: Lamp.001|ConvData_Action.002
+    7400006: Lamp.001|ConvData_Action.003
+    7400008: Lamp|ConvData_Action
+    7400010: Lamp|ConvData_Action.001
+    7400012: Lamp|ConvData_Action.002
+    7400014: Lamp|ConvData_Action.003
+    7400016: Plane|ConvData_Action
+    7400018: Plane|ConvData_Action.001
+    7400020: Plane|ConvData_Action.002
+    7400022: Plane|ConvData_Action.003
+    7400024: CurveCircle|ConvData_Action
+    7400026: CurveCircle|ConvData_Action.001
+    7400028: CurveCircle|ConvData_Action.002
+    7400030: CurveCircle|ConvData_Action.003
+    7400032: SurfSphere|ConvData_Action
+    7400034: SurfSphere|ConvData_Action.001
+    7400036: SurfSphere|ConvData_Action.002
+    7400038: SurfSphere|ConvData_Action.003
+    7400040: SurfTube|ConvData_Action
+    7400042: SurfTube|ConvData_Action.001
+    7400044: SurfTube|ConvData_Action.002
+    7400046: SurfTube|ConvData_Action.003
+    7400048: SurfSphere.001|ConvData_Action
+    7400050: SurfSphere.001|ConvData_Action.001
+    7400052: SurfSphere.001|ConvData_Action.002
+    7400054: SurfSphere.001|ConvData_Action.003
+    7400056: SurfTube.001|ConvData_Action
+    7400058: SurfTube.001|ConvData_Action.001
+    7400060: SurfTube.001|ConvData_Action.002
+    7400062: SurfTube.001|ConvData_Action.003
+    7400064: SurfSphere.002|ConvData_Action
+    7400066: SurfSphere.002|ConvData_Action.001
+    7400068: SurfSphere.002|ConvData_Action.002
+    7400070: SurfSphere.002|ConvData_Action.003
+    7400072: CurveCircle.001|ConvData_Action
+    7400074: CurveCircle.001|ConvData_Action.001
+    7400076: CurveCircle.001|ConvData_Action.002
+    7400078: CurveCircle.001|ConvData_Action.003
+    7400080: Camera|ConvData_Action
+    7400082: Camera|ConvData_Action.001
+    7400084: Camera|ConvData_Action.002
+    7400086: Camera|ConvData_Action.003
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Lamp.001|ConvData_Action
+      takeName: Lamp.001|ConvData_Action
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Lamp.001|ConvData_Action.001
+      takeName: Lamp.001|ConvData_Action.001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Lamp.001|ConvData_Action.002
+      takeName: Lamp.001|ConvData_Action.002
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Lamp.001|ConvData_Action.003
+      takeName: Lamp.001|ConvData_Action.003
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Lamp|ConvData_Action
+      takeName: Lamp|ConvData_Action
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Lamp|ConvData_Action.001
+      takeName: Lamp|ConvData_Action.001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Lamp|ConvData_Action.002
+      takeName: Lamp|ConvData_Action.002
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Lamp|ConvData_Action.003
+      takeName: Lamp|ConvData_Action.003
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Plane|ConvData_Action
+      takeName: Plane|ConvData_Action
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Plane|ConvData_Action.001
+      takeName: Plane|ConvData_Action.001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Plane|ConvData_Action.002
+      takeName: Plane|ConvData_Action.002
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Plane|ConvData_Action.003
+      takeName: Plane|ConvData_Action.003
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CurveCircle|ConvData_Action
+      takeName: CurveCircle|ConvData_Action
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CurveCircle|ConvData_Action.001
+      takeName: CurveCircle|ConvData_Action.001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CurveCircle|ConvData_Action.002
+      takeName: CurveCircle|ConvData_Action.002
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CurveCircle|ConvData_Action.003
+      takeName: CurveCircle|ConvData_Action.003
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SurfSphere|ConvData_Action
+      takeName: SurfSphere|ConvData_Action
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SurfSphere|ConvData_Action.001
+      takeName: SurfSphere|ConvData_Action.001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SurfSphere|ConvData_Action.002
+      takeName: SurfSphere|ConvData_Action.002
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SurfSphere|ConvData_Action.003
+      takeName: SurfSphere|ConvData_Action.003
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SurfTube|ConvData_Action
+      takeName: SurfTube|ConvData_Action
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SurfTube|ConvData_Action.001
+      takeName: SurfTube|ConvData_Action.001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SurfTube|ConvData_Action.002
+      takeName: SurfTube|ConvData_Action.002
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SurfTube|ConvData_Action.003
+      takeName: SurfTube|ConvData_Action.003
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SurfSphere.001|ConvData_Action
+      takeName: SurfSphere.001|ConvData_Action
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SurfSphere.001|ConvData_Action.001
+      takeName: SurfSphere.001|ConvData_Action.001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SurfSphere.001|ConvData_Action.002
+      takeName: SurfSphere.001|ConvData_Action.002
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SurfSphere.001|ConvData_Action.003
+      takeName: SurfSphere.001|ConvData_Action.003
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SurfTube.001|ConvData_Action
+      takeName: SurfTube.001|ConvData_Action
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SurfTube.001|ConvData_Action.001
+      takeName: SurfTube.001|ConvData_Action.001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SurfTube.001|ConvData_Action.002
+      takeName: SurfTube.001|ConvData_Action.002
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SurfTube.001|ConvData_Action.003
+      takeName: SurfTube.001|ConvData_Action.003
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SurfSphere.002|ConvData_Action
+      takeName: SurfSphere.002|ConvData_Action
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SurfSphere.002|ConvData_Action.001
+      takeName: SurfSphere.002|ConvData_Action.001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SurfSphere.002|ConvData_Action.002
+      takeName: SurfSphere.002|ConvData_Action.002
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: SurfSphere.002|ConvData_Action.003
+      takeName: SurfSphere.002|ConvData_Action.003
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CurveCircle.001|ConvData_Action
+      takeName: CurveCircle.001|ConvData_Action
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CurveCircle.001|ConvData_Action.001
+      takeName: CurveCircle.001|ConvData_Action.001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CurveCircle.001|ConvData_Action.002
+      takeName: CurveCircle.001|ConvData_Action.002
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: CurveCircle.001|ConvData_Action.003
+      takeName: CurveCircle.001|ConvData_Action.003
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Camera|ConvData_Action
+      takeName: Camera|ConvData_Action
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Camera|ConvData_Action.001
+      takeName: Camera|ConvData_Action.001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Camera|ConvData_Action.002
+      takeName: Camera|ConvData_Action.002
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Camera|ConvData_Action.003
+      takeName: Camera|ConvData_Action.003
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: CurveCircle
+        weight: 1
+      - path: CurveCircle/SurfSphere
+        weight: 1
+      - path: CurveCircle/SurfSphere/SurfTube
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: Lamp.001
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: SurfSphere.001
+        weight: 1
+      - path: SurfSphere.001/SurfTube.001
+        weight: 1
+      - path: SurfSphere.002
+        weight: 1
+      - path: SurfSphere.002/CurveCircle.001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

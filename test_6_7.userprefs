@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/control_ImageTarget8.cs">
+    <Files>
+      <File FileName="Assets/control_ImageTarget3.cs" Line="29" Column="33" />
+      <File FileName="Assets/control_ImageTarget8.cs" Line="130" Column="57" />
+      <File FileName="Assets/control_ImageTarget4.cs" Line="189" Column="30" />
+      <File FileName="Assets/control_ImageTarget10.cs" Line="80" Column="9" />
+      <File FileName="Assets/control_ImageTarget10_new.cs" Line="180" Column="33" />
+      <File FileName="Assets/control_ImageTarget5.cs" Line="185" Column="37" />
+      <File FileName="Assets/control_ImageTarget6.cs" Line="191" Column="3" />
+      <File FileName="Assets/control_ImageTarget7.cs" Line="192" Column="3" />
+      <File FileName="Assets/control_ImageTarget9.cs" Line="126" Column="66" />
+      <File FileName="Assets/Dice/Plugins/Die.cs" Line="137" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
